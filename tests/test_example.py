@@ -3,10 +3,6 @@ Example test file for RAM-IPA project.
 This demonstrates how to structure tests.
 """
 
-import sys
-import os
-sys.path.insert(0, os.path.join(os.path.dirname(__file__), '..', 'src'))
-
 def test_example():
     """Basic test example."""
     # This is a placeholder test

@@ -49,9 +49,7 @@ ENV/
 target/
 
 # C/C++
-*.out
-*.o
-*.exe
+*.a
 
 # Archives
 *.zip
