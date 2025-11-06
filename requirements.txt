@@ -1,1 +1,5 @@
-
+numpy
+pandas
+torch
+matplotlib
+sqlite3   # built-in, no install needed
